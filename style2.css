@@ -1,6 +1,8 @@
 body
 {
 background-color:black;
+  background-image: url('skulls.png');
+    background-color: #cccccc;
 font-family:Veranda;
 font-size:14;
 color:white;
